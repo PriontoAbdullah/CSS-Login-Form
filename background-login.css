@@ -6,9 +6,9 @@
 }
 
 #background-login {
-box-sizing: border-box;
-user-select: none;
-min-height: 100vh;
+    box-sizing: border-box;
+    user-select: none;
+    min-height: 100;
 }
 
 .bg-img {
