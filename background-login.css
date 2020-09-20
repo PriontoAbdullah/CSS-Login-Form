@@ -28,7 +28,7 @@
     background: rgba(0, 0, 0, 0.7);
 }
 
-.content {
+.contentL {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -41,7 +41,7 @@
     box-shadow: -1px 4px 28px 0px rgba(0, 0, 0, 0.75);
 }
 
-.content header {
+.contentL header {
     color: white;
     font-size: 33px;
     font-weight: 600;
